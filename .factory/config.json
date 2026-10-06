@@ -9,7 +9,7 @@
     "build": null,
     "lint": null,
     "typecheck": null,
-    "test": null
+    "test": "python -m unittest"
   },
   "limits": {
     "max_fix_attempts": 3,
